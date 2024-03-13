@@ -1,9 +1,10 @@
 
-# RockyBot: News Research Tool 
+# Finance Insightful News Navigator:
 
-RockyBot is a user-friendly news research tool designed for effortless information retrieval. Users can input article URLs and ask questions to receive relevant insights from the stock market and financial domain.
+Finance Insightful News Navigator is a user-friendly news research tool designed for effortless information retrieval. Users can input article URLs and ask questions to receive relevant insights from the stock market and financial domain.
 
-![](rockybot.jpg)
+<img width="1421" alt="Finance Insightful News Navigator" src="https://github.com/ankitsinghh12/Projects/assets/91384444/6ee42dd8-6ae5-4103-864a-af4ce2b6c932">
+
 
 ## Features
 
